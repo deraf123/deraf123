@@ -1,4 +1,4 @@
-![Header](https://github.com/deraf123/deraf123/blob/main/assets/veb-programmist.gif)
+![Header](https://github.com/deraf123/deraf123/blob/main/assets/hacker.gif)
 
 ## I'm a Frontend Developer
 
